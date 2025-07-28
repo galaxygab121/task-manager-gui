@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "submit code ",
+    "due_date": "2025-07-27",
+    "priority": "High"
+  },
+  {
+    "title": "do the laundry",
+    "due_date": "2025-07-29",
+    "priority": "Low"
+  },
+  {
+    "title": "complete github lesson",
+    "due_date": "2025-07-27",
+    "priority": "Medium"
+  },
+  {
+    "title": "do the yellowdig",
+    "due_date": "2025-07-27",
+    "priority": "High"
+  }
+]
